@@ -1,10 +1,13 @@
-## Olá pessoal me chamo Marcelo Souza tenho 17 anos e sou Desenvolvedor Front-end! ##
+## 👋 Hi There! ##
+
+<h3> Apaixonado pelo mundo da programação <h3>
+<h3> Desenvolvedor Front-end <h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1010006987079159890/1075247839329914940/326235873_846964586361284_3015841565104384195_n.jpg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:120px;" src="https://cdn.discordapp.com/attachments/1010006987079159890/1075247839329914940/326235873_846964586361284_3015841565104384195_n.jpg">
 </div>
   
   ##
