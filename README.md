@@ -3,14 +3,6 @@
 <h3> Marcelo "Kaiser" Souza - 17 Anos - Santa Catarina, Brasil <h3>
 <h4> Desenvolvedor Junior Front-end <h4>
 
-<div> 
-  <h2> Projetos Recentes <h2>
-
-  <h4> Netflix Clone - 9/12/2022 - Open Source <h4>
-  <h4> FiveM UI Police Arsenal - 15/7/2022 - Closed Source <h4>
-</div>
- 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
