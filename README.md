@@ -1,7 +1,7 @@
 ## 👋 Hi There! ##
 
-<h3> Apaixonado pelo mundo da programação <h3>
-<h4> Desenvolvedor Front-end <h4>
+<h3> Marcelo "Kaiser" Souza - 17 Anos - Santa Catarina, Brasil <h3>
+<h4> Desenvolvedor Junior Front-end <h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
